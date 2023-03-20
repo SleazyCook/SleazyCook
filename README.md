@@ -3,7 +3,7 @@
 
 I'm an independent full-stack developer with a passion for building web applications and learning new technologies.
 
-* 🌍  I'm based in Houston, TX
+* 🌍  [Personal Portfolio](https://developedbydrewford.netlify.app)
 * 👯  I’m interested in collaborating on projects.
 <!-- * ✉️  You can contact me at [mattyard11@gmail.com](mailto:mattyard11@gmail.com) -->
 
