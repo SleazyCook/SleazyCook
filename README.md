@@ -55,4 +55,8 @@ Here are some ideas to get you started:
 <a href="https://business.adobe.com/products/magento/magento-commerce.html" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/M/magento-logo-7F3911AE9E-seeklogo.com.png" width="36" height="36" alt="Magento" /></a>
 <!-- BigCommerce -->
 <a href="https://www.bigcommerce.com/dm/mm-gtm/?utm_term=bigcommerce&lqid=engine:google%7Ccampaignid:933821213%7Cadid:635224001684%7Cgclid:CjwKCAjw6c63BhAiEiwAF0EH1H7A95sNTSGtoT-epBBB7mPaBQrkPUPH1OJL6TSRM3f-u7SCPrcNJRoCTZwQAvD_BwE&gad_source=1&gclid=CjwKCAjw6c63BhAiEiwAF0EH1H7A95sNTSGtoT-epBBB7mPaBQrkPUPH1OJL6TSRM3f-u7SCPrcNJRoCTZwQAvD_BwE" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/B/bigcommerce-logo-6907DF6845-seeklogo.com.png" width="36" height="36" alt="BigCommerce" /></a>
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png" width="36" height="36" alt="Figma" /></a>
+
+
 </p>
