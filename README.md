@@ -45,5 +45,7 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<!-- Groovy script -->
+<a href="" target='_blank' rel="noferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AGroovy-logo.svg&psig=AOvVaw0HObFEqBn4xUrmCkCHMKbu&ust=1727363849835000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj0z_ex3ogDFQAAAAAdAAAAABAE" width="72" height="36" alt="groovy script" /></a>
 
 </p>
