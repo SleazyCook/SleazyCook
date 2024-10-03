@@ -64,7 +64,6 @@
 
 ### Software Engineer
 Support Team <br />
-2024 -
 
 <p>
   <a href="https://searchspring.com/" target="_blank"><img src="https://cdn.spark.app/media/anchorgroup1/image/searchspring_logo_partner.png" width=375" /></a>
@@ -75,7 +74,6 @@ Support Team <br />
 ### Curse of Strahd: Plight of the Sunseekers
 Interactive Player Guide & <br />
 Choose Your Own Adventure Game <br />
-2023 - 2024
 
 <p>
   <a href="https://www.youtube.com/watch?v=q8hclLdrzVM"><img src="https://i.imgur.com/fx9tAT8.png" width=375"></a>
