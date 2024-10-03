@@ -60,7 +60,23 @@
   <a href="https://www.bigcommerce.com/dm/mm-gtm/?utm_term=bigcommerce&lqid=engine:google%7Ccampaignid:933821213%7Cadid:635224001684%7Cgclid:CjwKCAjw6c63BhAiEiwAF0EH1H7A95sNTSGtoT-epBBB7mPaBQrkPUPH1OJL6TSRM3f-u7SCPrcNJRoCTZwQAvD_BwE&gad_source=1&gclid=CjwKCAjw6c63BhAiEiwAF0EH1H7A95sNTSGtoT-epBBB7mPaBQrkPUPH1OJL6TSRM3f-u7SCPrcNJRoCTZwQAvD_BwE" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/B/bigcommerce-logo-6907DF6845-seeklogo.com.png" width="36" height="36" alt="BigCommerce" /></a>
 </p>
 
+## Professional Work
+
+### Software Engineer
+Support Team <br />
+2024 -
+
+<p>
+  <a href="https://searchspring.com/" target="_blank"><img src="https://cdn.spark.app/media/anchorgroup1/image/searchspring_logo_partner.png" width=375" /></a>
+</p>
+
 ## Passion Projects
 
 ### Curse of Strahd: Plight of the Sunseekers
-[![Watch the video](https://i.imgur.com/fx9tAT8.png)](https://www.youtube.com/watch?v=q8hclLdrzVM)
+Interactive Player Guide & <br />
+Choose Your Own Adventure Game <br />
+2023 - 2024
+
+<p>
+  <a href="https://www.youtube.com/watch?v=q8hclLdrzVM"><img src="https://i.imgur.com/fx9tAT8.png"></a>
+</p>
