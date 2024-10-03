@@ -60,6 +60,7 @@
   <a href="https://www.bigcommerce.com/dm/mm-gtm/?utm_term=bigcommerce&lqid=engine:google%7Ccampaignid:933821213%7Cadid:635224001684%7Cgclid:CjwKCAjw6c63BhAiEiwAF0EH1H7A95sNTSGtoT-epBBB7mPaBQrkPUPH1OJL6TSRM3f-u7SCPrcNJRoCTZwQAvD_BwE&gad_source=1&gclid=CjwKCAjw6c63BhAiEiwAF0EH1H7A95sNTSGtoT-epBBB7mPaBQrkPUPH1OJL6TSRM3f-u7SCPrcNJRoCTZwQAvD_BwE" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/B/bigcommerce-logo-6907DF6845-seeklogo.com.png" width="36" height="36" alt="BigCommerce" /></a>
 </p>
 
-### Sunseekers - A Passion Project
-Click the image below to view a demo of my Player's Guide to a friendly D&D game called Curse of Strahd: Plight of the Sunseekers
-[![Watch the video](https://img.youtube.com/vi/q8hclLdrzVM/0.jpg)](https://www.youtube.com/watch?v=q8hclLdrzVM)
+## Passion Projects
+
+### Curse of Strahd: Plight of the Sunseekers
+[![Watch the video](https://i.imgur.com/fx9tAT8.png)](https://www.youtube.com/watch?v=q8hclLdrzVM)
