@@ -78,5 +78,5 @@ Choose Your Own Adventure Game <br />
 2023 - 2024
 
 <p>
-  <a href="https://www.youtube.com/watch?v=q8hclLdrzVM"><img src="https://i.imgur.com/fx9tAT8.png"></a>
+  <a href="https://www.youtube.com/watch?v=q8hclLdrzVM"><img src="https://i.imgur.com/fx9tAT8.png" width=375"></a>
 </p>
