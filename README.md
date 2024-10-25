@@ -73,7 +73,18 @@ Support Team <br />
 ### Curse of Strahd: Plight of the Sunseekers
 Interactive Player Guide & <br />
 Choose Your Own Adventure Game <br />
+<i> Solo Project </i>
 
 <p>
   <a href="https://www.youtube.com/watch?v=q8hclLdrzVM"><img src="https://i.imgur.com/fx9tAT8.png" width=375"></a>
 </p>
+
+### Marathon
+Streaming Site Clone <br />
+<i> Full Stack Pair Programming Project </i>
+
+<p>
+  <a href="https://www.youtube.com/watch?v=q8hclLdrzVM"><img src="https://i.imgur.com/3Tg2GrG.jpg" width=375"></a>
+</p>
+
+
