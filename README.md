@@ -76,7 +76,7 @@ Support Team <br />
       <h3>Curse of Strahd: Plight of the Sunseekers</h3>
       <p>
         Interactive Player Guide & <br />
-        <i>Solo Project</i>
+        <i>Solo React Project</i>
       </p>
       <p>
         <a href="https://www.youtube.com/watch?v=q8hclLdrzVM">
