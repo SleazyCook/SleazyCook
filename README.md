@@ -70,21 +70,31 @@ Support Team <br />
 
 ## Passion Projects
 
-### Curse of Strahd: Plight of the Sunseekers
-Interactive Player Guide & <br />
-Choose Your Own Adventure Game <br />
-<i> Solo Project </i>
-
-<p>
-  <a href="https://www.youtube.com/watch?v=q8hclLdrzVM"><img src="https://i.imgur.com/fx9tAT8.png" width=375"></a>
-</p>
-
-### Marathon
-Streaming Site Clone <br />
-<i> Full Stack Pair Programming Project </i>
-
-<p>
-  <a href="https://www.youtube.com/watch?v=q8hclLdrzVM"><img src="https://i.imgur.com/3Tg2GrG.jpg" width=375"></a>
-</p>
-
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Curse of Strahd: Plight of the Sunseekers</h3>
+      <p>
+        Interactive Player Guide & <br />
+        <i>Solo Project</i>
+      </p>
+      <p>
+        <a href="https://www.youtube.com/watch?v=q8hclLdrzVM">
+          <img src="https://i.imgur.com/fx9tAT8.png" width="100%">
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Marathon</h3>
+      <p>
+        Streaming Site Clone <br />
+        <i>Full Stack Pair Programming Project</i>
+      </p>
+      <p>
+        <a href="https://www.youtube.com/watch?v=q8hclLdrzVM">
+          <img src="https://i.imgur.com/3Tg2GrG.jpg" width="100%">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
