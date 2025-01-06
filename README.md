@@ -1,14 +1,14 @@
-# Developed by Drewford
+# 🌟 Developed by Drewford 
 ### Andrew Cook - Experienced Developer & Software Engineer
 <a href="https://drewford.dev/" target="_blank"><img src="https://i.imgur.com/7SI2fGm.png" alt="Drew's Portfolio" wifth="350"/></a>
 
-## How to Reach Me 📬
+## 📬 How to Reach Me 
 📫 Drop me an email at andrewjcook93@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/developedbydrewford/).
 
 🌐 Check out my [portfolio](https://www.drewford.dev).
 
-## Skills
-### Coding Languages
+## 🎒 Skills 
+### 💻 Coding Languages 
 <p align="left">
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -26,7 +26,7 @@
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
-### Web Development
+### 🌐 Web Development 
 <p>
   <!-- Node.js -->
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
@@ -46,7 +46,7 @@
   <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://tutorials.yax.com/assets/images/articles/render-logo.png" width="36" height="36" alt="Render" /></a>
 </p>
 
-### Tools
+### 🔧 Online Tools 
 <p>
   <!-- Git -->
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -64,7 +64,7 @@
   <a href="https://www.bigcommerce.com/dm/mm-gtm/?utm_term=bigcommerce&lqid=engine:google%7Ccampaignid:933821213%7Cadid:635224001684%7Cgclid:CjwKCAjw6c63BhAiEiwAF0EH1H7A95sNTSGtoT-epBBB7mPaBQrkPUPH1OJL6TSRM3f-u7SCPrcNJRoCTZwQAvD_BwE&gad_source=1&gclid=CjwKCAjw6c63BhAiEiwAF0EH1H7A95sNTSGtoT-epBBB7mPaBQrkPUPH1OJL6TSRM3f-u7SCPrcNJRoCTZwQAvD_BwE" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/B/bigcommerce-logo-6907DF6845-seeklogo.com.png" width="36" height="36" alt="BigCommerce" /></a>
 </p>
 
-## Professional Work
+## 📌 Professional Work 
 
 ### Software Engineer
 Support Team <br />
@@ -73,7 +73,7 @@ Support Team <br />
   <a href="https://searchspring.com/" target="_blank"><img src="https://cdn.spark.app/media/anchorgroup1/image/searchspring_logo_partner.png" width=375" /></a>
 </p>
 
-## Passion Projects
+## 🎨 Passion Projects 
 
 <table>
   <tr>
