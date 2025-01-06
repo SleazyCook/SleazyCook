@@ -8,7 +8,7 @@
 🌐 Check out my [portfolio](https://www.drewford.dev).
 
 ## 🎒 Skills 
-### 💻 Coding Languages 
+### Coding Languages 
 <p align="left">
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -26,7 +26,7 @@
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
-### 🌐 Web Development 
+### Web Development 
 <p>
   <!-- Node.js -->
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
@@ -46,7 +46,7 @@
   <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://tutorials.yax.com/assets/images/articles/render-logo.png" width="36" height="36" alt="Render" /></a>
 </p>
 
-### 🔧 Online Tools 
+### Online Tools 
 <p>
   <!-- Git -->
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
