@@ -2,6 +2,11 @@
 ### Andrew Cook - Experienced Developer & Software Engineer
 <a href="https://drewford.dev/" target="_blank"><img src="https://i.imgur.com/7SI2fGm.png" alt="Drew's Portfolio" wifth="350"/></a>
 
+## How to Reach Me 📬
+📫 Drop me an email at andrewjcook93@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/developedbydrewford/).
+
+🌐 Check out my [portfolio](https://www.drewford.dev).
+
 ## Skills
 ### Coding Languages
 <p align="left">
