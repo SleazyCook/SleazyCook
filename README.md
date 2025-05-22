@@ -77,15 +77,15 @@ Support Team <br />
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Curse of Strahd: Plight of the Sunseekers</h3>
+        <td width="50%" valign="top">
+      <h3>Houston Guide</h3>
       <p>
-        Interactive Player Guide & <br />
+        Mobile-first Houston Food & Activity Guide <br />
         <i>Solo React Project</i>
       </p>
       <p>
-        <a href="https://www.youtube.com/watch?v=q8hclLdrzVM">
-          <img src="https://i.imgur.com/fx9tAT8.png" width="100%">
+        <a href="https://houston.drewford.dev">
+          <img src="https://i.imgur.com/mcWmBC6.png" width="100%"/>
         </a>
       </p>
     </td>
@@ -98,6 +98,20 @@ Support Team <br />
       <p>
         <a href="https://www.youtube.com/watch?v=q8hclLdrzVM">
           <img src="https://i.imgur.com/3Tg2GrG.jpg" width="100%">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Curse of Strahd: Plight of the Sunseekers</h3>
+      <p>
+        Interactive Player Guide <br />
+        <i>Solo React Project</i>
+      </p>
+      <p>
+        <a href="https://www.youtube.com/watch?v=q8hclLdrzVM">
+          <img src="https://i.imgur.com/fx9tAT8.png" width="100%">
         </a>
       </p>
     </td>
