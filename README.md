@@ -85,7 +85,7 @@ March 2024 - Present <br />
       </p>
       <p>
         <a href="https://houston.drewford.dev">
-          <img src="https://i.imgur.com/mcWmBC6.png" width="100%"/>
+          <img src="https://i.imgur.com/UlG1G58.png" width="100%"/>
         </a>
       </p>
     </td>
