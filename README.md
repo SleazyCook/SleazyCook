@@ -53,7 +53,7 @@
   <!--AWS-->
     <a href="https://aws.amazon.com/free/?gclid=Cj0KCQjwr9m3BhDHARIsANut04ZnC2iYa15lwEvFooVeScHYFXlHMebjSSHV4APlbsFd6vBwlY8wbWQaAgW4EALw_wcB&trk=fce796e8-4ceb-48e0-9767-89f7873fac3d&sc_channel=ps&ef_id=Cj0KCQjwr9m3BhDHARIsANut04ZnC2iYa15lwEvFooVeScHYFXlHMebjSSHV4APlbsFd6vBwlY8wbWQaAgW4EALw_wcB:G:s&s_kwcid=AL!4422!3!592542020599!e!!g!!aws!1644045032!68366401852&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ea8a56ab-3684-4a88-a65c-66573a777280" width="72" height="36" alt="AWS" /></a>
   <!--ChatGPT-->
-  <a href="https://i.imgur.com/qXBpLiZ.png" target="_blank" rel="noreferrer"><img src="https://freepnglogo.com/images/all_img/1700403373logo-chatgpt-png.png" width="36" height="36" alt="ChatGPT" /></a>
+  <a href="https://openai.com" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/qXBpLiZ.png" width="36" height="36" alt="ChatGPT" /></a>
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" width="36" height="36" alt="Figma" /></a>
   <!-- Shopify -->
@@ -67,7 +67,7 @@
 ## 📌 Professional Work 
 
 ### Software Engineer
-Support Team <br />
+March 2024 - Present <br />
 
 <p>
   <a href="https://searchspring.com/" target="_blank"><img src="https://cdn.spark.app/media/anchorgroup1/image/searchspring_logo_partner.png" width=375" /></a>
