@@ -96,7 +96,7 @@ March 2024 - Present <br />
         <i>Full Stack Pair Programming Project</i>
       </p>
       <p>
-        <a href="https://github.com/orgs/React-Royalty/repositories>
+        <a href="https://github.com/orgs/React-Royalty/repositories">
           <img src="https://i.imgur.com/3Tg2GrG.jpg" width="100%">
         </a>
       </p>
