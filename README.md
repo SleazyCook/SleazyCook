@@ -41,7 +41,7 @@
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind" /></a>
   <!-- Netlify -->
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/netlify-icon-2045x2048-j2yz3d5y.png" width="36" height="36" alt="Netlify" /></a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/UVxSqQc.png" width="36" height="36" alt="Netlify" /></a>
   <!-- Render -->
   <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://tutorials.yax.com/assets/images/articles/render-logo.png" width="36" height="36" alt="Render" /></a>
 </p>
