@@ -66,11 +66,25 @@
 
 ## 📌 Professional Work 
 
-### Software Engineer
-March 2024 - Present <br />
+### Software Engingeer - [Athos Commerce](https://athoscommerce.com/)
+July 2025 - Present <br />
 
 <p>
-  <a href="https://searchspring.com/" target="_blank"><img src="https://cdn.spark.app/media/anchorgroup1/image/searchspring_logo_partner.png" width=375" /></a>
+  <a href="https://athoscommerce.com/"><img src="https://imgur.com/1SEdSFJ.png" width="400" /></a>
+</p>
+
+### Software Engingeer - [Searchspring](https://searchspring.com/)
+March 2024 - July 2025 <br />
+
+<p>
+  <a href="https://searchspring.com/"><img src="https://i.imgur.com/u3jl8Wk.png" width="400" /></a>
+</p>
+
+### Frontend Engineer - [Guild Gaming](https://www.facebook.com/guildgamingco/)
+May 2023 - March 2024 <br />
+
+<p>
+  <a href="https://www.facebook.com/guildgamingco/"><img src="https://i.imgur.com/p8ssoMG.png" width="400" /></a>
 </p>
 
 ## 🎨 Passion Projects 
