@@ -17,7 +17,7 @@
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <!-- Groovy script -->
-  <a href="https://groovy-lang.org/" target='_blank' rel="noferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1024px-Groovy-logo.svg.png" width="72" height="36" alt="groovy script" /></a>
+  <a href="https://groovy-lang.org/" target='_blank' rel="noferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/250px-Groovy-logo.svg.png" width="72" height="36" alt="groovy script" /></a>
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <!-- HTML 5 -->
